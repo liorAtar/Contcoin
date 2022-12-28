@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Contcoin/static/css/main.9588fe21.css",
+    "main.js": "/Contcoin/static/js/main.24317730.js",
+    "static/js/787.887c022c.chunk.js": "/Contcoin/static/js/787.887c022c.chunk.js",
+    "static/media/save-file.png": "/Contcoin/static/media/save-file.30aadc8c5f4740c250c4.png",
+    "static/media/signup.png": "/Contcoin/static/media/signup.eb332c7a5d1bbeae7159.png",
+    "static/media/email.png": "/Contcoin/static/media/email.b8107c75d310242b849f.png",
+    "static/media/phone-call.png": "/Contcoin/static/media/phone-call.fd7700fa7f9bba0feea9.png",
+    "static/media/plus.png": "/Contcoin/static/media/plus.4c4f31ab158c060fb681.png",
+    "static/media/location.png": "/Contcoin/static/media/location.279e62350b7d4a072758.png",
+    "static/media/turn-back.png": "/Contcoin/static/media/turn-back.c669f1b36cec1db36600.png",
+    "static/media/edit-text.png": "/Contcoin/static/media/edit-text.0749fabbd08bb80f219c.png",
+    "index.html": "/Contcoin/index.html",
+    "main.9588fe21.css.map": "/Contcoin/static/css/main.9588fe21.css.map",
+    "main.24317730.js.map": "/Contcoin/static/js/main.24317730.js.map",
+    "787.887c022c.chunk.js.map": "/Contcoin/static/js/787.887c022c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9588fe21.css",
+    "static/js/main.24317730.js"
+  ]
+}
